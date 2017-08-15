@@ -7,24 +7,24 @@ description: International Workshop on Intelligent Software Engineering (WISE 20
 
 The International Workshop on Intelligent Software Engineering (WISE 2017), co-located with [ASE 2017](http://ase2017.org/), will invites leading researchers from both academia and industry with the aim of sharing ideas and presenting thooughts on the state of the art and challenges to ISE. For example, how can AI improve the efficiency of software development? How can AI reduce the maintenance of software services? Can AI shift the developing model? Can AI even overtake coding task totally?
 
-## Date
+#### Date
 
 October 30, 2017 (Sunday)
 
-## Location
+#### Location
 
 Urbana-Champaign, IL, USA
 
-## Organizing Committee
+#### Organizing Committee
 
 [Tao Xie](http://taoxie.cs.illinois.edu/) (University of Illinois Urbana-Champaign, USA)
 [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
 More to be confirmed
  
-## Workshop Program
+#### Workshop Program
 
 TBD 
 
-## Sponsored by
+##### Sponsored by
 
-![alt text](assets/images/huawei_logo.jpg "Huawei Technologies Co. Ltd")
+![alt text](assets/images/huawei_logo.jpg "Huawei Technologies Co. Ltd" =10x10)
