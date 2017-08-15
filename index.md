@@ -1,7 +1,7 @@
 ---
 layout: page
 title: International Workshop on Intelligent Software Engineering (WISE 2017)
-tagline: October 30, 2017 co-located with ASE 2017
+tagline: October 30, 2017 \n co-located with ASE 2017
 description: International Workshop on Intelligent Software Engineering (WISE 2017)
 ---
 
