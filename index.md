@@ -27,4 +27,4 @@ TBD
 
 ##### Sponsored by
 
-<img src="assets/images/huawei_logo.jpg" width="24">
+<img src="assets/images/huawei_logo.jpg" width="48">
