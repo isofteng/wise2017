@@ -25,6 +25,6 @@ More to be confirmed
 
 TBD 
 
-### Sponsor
+### Sponsored by
 
-Huawei Technologies Co. Ltd
+![alt text](assets/images/huawei_logo.jpg "Huawei Technologies Co. Ltd")
