@@ -17,9 +17,9 @@ Urbana-Champaign, IL, USA
 
 #### Organizing Committee
 
-[Tao Xie](http://taoxie.cs.illinois.edu/) (University of Illinois Urbana-Champaign, USA)
-[Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
-More to be confirmed
+- [Tao Xie](http://taoxie.cs.illinois.edu/) (University of Illinois Urbana-Champaign, USA)
+- [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
+- More to be confirmed
  
 #### Workshop Program
 
