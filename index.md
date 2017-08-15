@@ -27,4 +27,4 @@ TBD
 
 ##### Sponsored by
 
-![alt text](assets/images/huawei_logo.jpg =10x10 "Huawei Technologies Co. Ltd")
+![alt text](assets/images/huawei_logo.jpg "Huawei Technologies Co. Ltd")
