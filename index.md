@@ -24,6 +24,7 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
 #### Organizing Committee
 
 - [Tao Xie](http://taoxie.cs.illinois.edu/) (University of Illinois Urbana-Champaign, USA)
+- [Abhik Roychoudhury](http://www.comp.nus.edu.sg/~abhik) (National University of Singapore, Singapore)
 - [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
 - More to be confirmed
  
