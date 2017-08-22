@@ -25,8 +25,8 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
 
 - [Tao Xie](http://taoxie.cs.illinois.edu/) (University of Illinois Urbana-Champaign, USA)
 - [Abhik Roychoudhury](http://www.comp.nus.edu.sg/~abhik) (National University of Singapore, Singapore)
+- [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA)
 - [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
-- More to be confirmed
  
 #### Invited Speakers
 
