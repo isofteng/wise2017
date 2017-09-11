@@ -30,7 +30,10 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
  
 #### Invited Speakers
 
-TBD
+More to be confirmed
+
+- [Prem Devanbu](http://web.cs.ucdavis.edu/~devanbu/) (UC Davis, USA)
+- [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA)
 
 #### Workshop Program
 
