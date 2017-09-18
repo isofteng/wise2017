@@ -33,6 +33,7 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
 More to be confirmed
 
 - [Prem Devanbu](http://web.cs.ucdavis.edu/~devanbu/) (UC Davis, USA)
+- [Na Meng](http://people.cs.vt.edu/nm8247/) (Virginia Tech, USA)
 - [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA)
 - [Rishabh Singh](https://www.microsoft.com/en-us/research/people/risin/) (Microsoft Research, USA) "Neural Program Synthesis"
 
