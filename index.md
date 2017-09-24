@@ -32,10 +32,14 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
 
 More to be confirmed
 
+- [Satish Chandra](https://sites.google.com/site/schandraacmorg/) (Facebook, USA)
 - [Prem Devanbu](http://web.cs.ucdavis.edu/~devanbu/) (UC Davis, USA)
 - [Na Meng](http://people.cs.vt.edu/nm8247/) (Virginia Tech, USA)
+- [John Micco](https://research.google.com/pubs/105187.html) (Google, USA) 
+- [Martin Rinard](http://people.csail.mit.edu/rinard/) (MIT, USA) - tentative/to be finalized
 - [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA)
 - [Rishabh Singh](https://www.microsoft.com/en-us/research/people/risin/) (Microsoft Research, USA) "Neural Program Synthesis"
+
 
 #### Workshop Program
 
