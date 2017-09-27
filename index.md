@@ -39,6 +39,7 @@ More to be confirmed
 - [Martin Rinard](http://people.csail.mit.edu/rinard/) (MIT, USA) - tentative/to be finalized
 - [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA)
 - [Rishabh Singh](https://www.microsoft.com/en-us/research/people/risin/) (Microsoft Research, USA) "Neural Program Synthesis"
+- [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
 
 
 #### Workshop Program
