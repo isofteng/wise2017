@@ -30,8 +30,6 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
  
 #### Invited Speakers
 
-More to be confirmed
-
 - [Satish Chandra](https://sites.google.com/site/schandraacmorg/) (Facebook, USA)
 - [Prem Devanbu](http://web.cs.ucdavis.edu/~devanbu/) (UC Davis, USA)
 - [Na Meng](http://people.cs.vt.edu/nm8247/) (Virginia Tech, USA)
@@ -46,7 +44,23 @@ More to be confirmed
 
 The workshop program will consist of a number of invited talks given by prominent researchers from academia and industry along with one or two panels for discussing future roadmap and challenges in intelligent software engineering.
 
-The detailed program is TBD. 
+Tentative program:
+
+08:30 AM - 08:40 AM Opening Remarks
+08:40 AM - 10:00 AM Sessions 1 (two invited talks) 
+
+10:00 AM - 10:30 AM  Coffee Break
+
+10:30 AM - 12:30 PM Sessions 2 (three invited talks)
+
+12:30 PM - 01:30 PM	 Lunch
+
+01:30 PM - 03:30 PM Sessions 3 (three invited talks)
+
+03:30 PM - 04:00 PM  Coffee Break
+
+04:00 PM - 05:30 PM	Panel Discussion Session
+
 
 ##### Sponsored by
 
