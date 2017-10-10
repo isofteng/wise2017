@@ -47,6 +47,7 @@ The workshop program will consist of a number of invited talks given by prominen
 Tentative program:
 
 08:30 AM - 08:40 AM Opening Remarks
+
 08:40 AM - 10:00 AM Sessions 1 (two invited talks) 
 
 10:00 AM - 10:30 AM  Coffee Break
