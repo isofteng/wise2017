@@ -36,7 +36,7 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
 - [John Micco](https://research.google.com/pubs/105187.html) (Google, USA) 
 - [Martin Rinard](http://people.csail.mit.edu/rinard/) (MIT, USA) 
 - [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA)
-- [Rishabh Singh](https://www.microsoft.com/en-us/research/people/risin/) (Microsoft Research, USA) "Neural Program Synthesis"
+- [Rishabh Singh](https://www.microsoft.com/en-us/research/people/risin/) (Microsoft Research, USA)
 - [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
 
 
