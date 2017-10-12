@@ -23,7 +23,7 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
 
 #### Organizing Committee
 
-- [Tao Xie](http://taoxie.cs.illinois.edu/) (University of Illinois Urbana-Champaign, USA)
+- [Tao Xie](http://taoxie.cs.illinois.edu/) (University of Illinois Urbana-Champaign, USA) (main contact)
 - [Abhik Roychoudhury](http://www.comp.nus.edu.sg/~abhik) (National University of Singapore, Singapore)
 - [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA)
 - [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
@@ -34,7 +34,7 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
 - [Prem Devanbu](http://web.cs.ucdavis.edu/~devanbu/) (UC Davis, USA)
 - [Na Meng](http://people.cs.vt.edu/nm8247/) (Virginia Tech, USA)
 - [John Micco](https://research.google.com/pubs/105187.html) (Google, USA) 
-- [Martin Rinard](http://people.csail.mit.edu/rinard/) (MIT, USA) - tentative/to be finalized
+- [Martin Rinard](http://people.csail.mit.edu/rinard/) (MIT, USA) 
 - [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA)
 - [Rishabh Singh](https://www.microsoft.com/en-us/research/people/risin/) (Microsoft Research, USA) "Neural Program Synthesis"
 - [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
