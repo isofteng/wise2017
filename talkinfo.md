@@ -59,7 +59,7 @@ Bio: TBD
 
 ####  [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA)
 
-Talk Title: Make data-driven decisions faster with real-time stream processing
+Talk Title: Make Data-driven Decisions Faster with Real-time Stream Processing
  
 Abstract: Facebook can move fast and iterate because of its ability to make data-driven decisions. Data from its stream processing systems provides real-time analytics and insights. In this talk, Wolfram Schulte covers the difficulties of stream processing at scale, the solutions Facebook has created to date, and three case studies on improving the time-to-deliver insights with data via stream processing. The case studies include examples from search product development, accelerating daily pipelines in the data warehouse, and seamless integration with machine learning platforms.  (This talk is based on a recent talk given by Rajesh Nishtala at Scale 2017.)
  
