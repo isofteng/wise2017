@@ -15,7 +15,7 @@ October 29, 2017 (Sunday)
 
 #### Location
 
-Urbana-Champaign, IL, USA
+2405 Siebel Center, Urbana-Champaign, IL, USA ([Directions to Siebel Center](https://cs.illinois.edu/contact-us/directions-siebel-center))
 
 #### Registration
 
