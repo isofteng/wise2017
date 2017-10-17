@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Intl. Workshop on Intelligent Software Engineering (WISE 2017)
+tagline: Oct. 29, 2017 co-located w/ ASE 2017
+description: International Workshop on Intelligent Software Engineering (WISE 2017)
 ---
 
 Talk Info
