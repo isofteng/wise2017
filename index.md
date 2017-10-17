@@ -28,9 +28,9 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
 - [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA)
 - [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
  
-#### Invited Speakers
+#### Invited Speakers 
 
-- [Satish Chandra](https://sites.google.com/site/schandraacmorg/) (Facebook, USA)
+- [Satish Chandra](https://sites.google.com/site/schandraacmorg/) (Facebook, USA): 
 - [Prem Devanbu](http://web.cs.ucdavis.edu/~devanbu/) (UC Davis, USA)
 - [Na Meng](http://people.cs.vt.edu/nm8247/) (Virginia Tech, USA)
 - [John Micco](https://research.google.com/pubs/105187.html) (Google, USA) 
@@ -39,6 +39,7 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
 - [Rishabh Singh](https://www.microsoft.com/en-us/research/people/risin/) (Microsoft Research, USA)
 - [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
 
+[Talk title, abstract, and bio](https://isofteng.github.io/wise2017/talkinfo.html)
 
 #### Workshop Program
 
