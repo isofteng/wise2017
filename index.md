@@ -30,14 +30,14 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
  
 #### Invited Speakers 
 
-- [Satish Chandra](https://sites.google.com/site/schandraacmorg/) (Facebook, USA): 
-- [Prem Devanbu](http://web.cs.ucdavis.edu/~devanbu/) (UC Davis, USA)
-- [Na Meng](http://people.cs.vt.edu/nm8247/) (Virginia Tech, USA)
-- [John Micco](https://research.google.com/pubs/105187.html) (Google, USA) 
+- [Satish Chandra](https://sites.google.com/site/schandraacmorg/) (Facebook, USA): "Bringing ML to the Developer"
+- [Prem Devanbu](http://web.cs.ucdavis.edu/~devanbu/) (UC Davis, USA): "On the Naturalness of Software"
+- [Na Meng](http://people.cs.vt.edu/nm8247/) (Virginia Tech, USA): "Clone Detection and Maintenance with AI Techniques"
+- [John Micco](https://research.google.com/pubs/105187.html) (Google, USA): "Continuous Integration Testing @ Google"
 - [Martin Rinard](http://people.csail.mit.edu/rinard/) (MIT, USA) 
-- [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA)
-- [Rishabh Singh](https://www.microsoft.com/en-us/research/people/risin/) (Microsoft Research, USA)
-- [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
+- [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA): "Make Data-driven Decisions Faster with Real-time Stream Processing"
+- [Rishabh Singh](https://www.microsoft.com/en-us/research/people/risin/) (Microsoft Research, USA): "Neural Program Synthesis"
+- [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China): "How Can Software Engineers Explore a New Way to the Cognitive Intelligence?"
 
 [Talk title, abstract, and bio](https://isofteng.github.io/wise2017/talkinfo.html)
 
