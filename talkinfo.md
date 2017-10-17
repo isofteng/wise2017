@@ -69,8 +69,7 @@ Bio: Wolfram Schulte is currently a software engineer at Facebook. His focus is 
 
 Talk Title: Neural Program Synthesis
 
-Abstract:
-The key to attaining general artificial intelligence is to develop architectures that are capable of
+Abstract: The key to attaining general artificial intelligence is to develop architectures that are capable of
 learning complex algorithmic behaviors modeled as programs. The ability to learn programs allows these
 architectures to learn to compose high-level abstractions with complex control-flow, which can lead to many
 potential benefits: i) enable neural architectures to perform more complex tasks, ii) learn interpretable
@@ -80,7 +79,13 @@ architectures for learning complex regular-expression based data transformation 
 and will also briefly discuss some other applications such as program repair and optimization that can benefit
 from learning neural program representations.
  
-Bio:
-Rishabh Singh is a researcher in the Cognition group at Microsoft Research, Redmond. His research interests span the areas of programming languages, formal methods, and deep learning. His recent work has focused on developing new neural architectures for learning programs. He obtained his PhD in Computer Science from MIT in 2014, where he was a Microsoft Research PhD fellow and was awarded the MIT’s George M. Sprowls Award for Best PhD Dissertation. He obtained his BTech in Computer Science from IIT Kharagpur in 2008, where he was awarded the Institute Silver Medal and Bigyan Sinha Memorial Award.
+Bio: Rishabh Singh is a researcher in the Cognition group at Microsoft Research, Redmond. His research interests span the areas of programming languages, formal methods, and deep learning. His recent work has focused on developing new neural architectures for learning programs. He obtained his PhD in Computer Science from MIT in 2014, where he was a Microsoft Research PhD fellow and was awarded the MIT’s George M. Sprowls Award for Best PhD Dissertation. He obtained his BTech in Computer Science from IIT Kharagpur in 2008, where he was awarded the Institute Silver Medal and Bigyan Sinha Memorial Award.
 
 ####  [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
+
+Talk title: How Can Software Engineers Explore a New Way to the Cognitive Intelligence?
+ 
+Abstract: Deep learning excites the current wave of Artificial Intelligence. Many software engineers are exploring the application of deep learning in software engineering area these days. Some AI researchers think next wave of AI may belong to cognitive intelligence, which cannot lead by deep learning. As intelligence intensive workers, can software engineers explore a new way to the next wave of AI?
+ 
+Bio: Dr. Qianxiang Wang is the director of software analysis LAB of HUAWEI, vice chair of ACM CSOFT(China chapter of SIGSOFT), secretary-general of CCF TCSE(Technical Committee of Software Engineering, China Computer Federation). He was the former professor of Peking University.
+ 
