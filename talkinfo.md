@@ -51,11 +51,9 @@ Bio: John Micco is a senior manager at Google focusing on the internal Continuou
 
 ####  [Martin Rinard](http://people.csail.mit.edu/rinard/) (MIT, USA) 
 
-Talk title: TBD
+Talk title: Three Intelligent Systems at the Intersection of Machine Learning and Software Engineering
 
-Abstract: TBD
 
-Bio: TBD
 
 ####  [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA)
 
