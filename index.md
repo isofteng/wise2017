@@ -45,7 +45,7 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
 
 The workshop program will consist of a number of invited talks given by prominent researchers from academia and industry along with one or two panels for discussing future roadmap and challenges in intelligent software engineering.
 
-Tentative program:
+[Talk title, abstract, and bio](https://isofteng.github.io/wise2017/talkinfo.html)
 
 08:30 AM - 08:40 AM Opening Remarks
 
@@ -69,7 +69,7 @@ Tentative program:
 
 03:30 PM - 04:00 PM  Coffee Break
 
-04:00 PM - 05:30 PM	Panel Discussion Session
+04:00 PM - 05:30 PM	Panel Discussion on Intelligent Software Engineeirng (panelists as invited speakers)
 
 
 ##### Sponsored by
