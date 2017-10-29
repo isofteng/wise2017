@@ -23,7 +23,7 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
 
 #### Organizing Committee
 
-- [Tao Xie](http://taoxie.cs.illinois.edu/) (University of Illinois Urbana-Champaign, USA) (main contact)
+- [Tao Xie](http://taoxie.cs.illinois.edu/) (University of Illinois Urbana-Champaign, USA) (main contact) **[Openning Slides](wise17-openning.pdf)**
 - [Abhik Roychoudhury](http://www.comp.nus.edu.sg/~abhik) (National University of Singapore, Singapore)
 - [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA)
 - [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
@@ -47,7 +47,7 @@ The workshop program will consist of a number of invited talks given by prominen
 
 [Talk title, abstract, and bio](https://isofteng.github.io/wise2017/talkinfo.html)
 
-08:30 AM - 08:40 AM Opening Remarks
+08:30 AM - 08:40 AM Opening Remarks **[Openning Slides](wise17-openning.pdf)**
 
 08:40 AM - 10:00 AM Sessions 1 (two invited talks) (Session Chair: Tao Xie)
 - [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China): "How Can Software Engineers Explore a New Way to the Cognitive Intelligence?"
