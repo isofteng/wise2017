@@ -66,12 +66,12 @@ The workshop program will consist of a number of invited talks given by prominen
 - [John Micco](https://research.google.com/pubs/105187.html) (Google, USA): "Continuous Integration Testing @ Google"
 - [Satish Chandra](https://sites.google.com/site/schandraacmorg/) (Facebook, USA): "Bringing ML to the Developer"
 
-03:30 PM - 03:50 PM  Coffee Break
+03:30 PM - 04:00 PM  Coffee Break
 
-03:50 PM - 04:30 PM Session 4 (one invited talk) (Session Chair: Tao Xie)
+04:40 PM - 04:40 PM Session 4 (one invited talk) (Session Chair: Tao Xie)
 - [Na Meng](http://people.cs.vt.edu/nm8247/) (Virginia Tech, USA): "Clone Detection and Maintenance with AI Techniques"
 
-04:30 PM - 05:30 PM	Panel Discussion on Intelligent Software Engineeirng (panelists as invited speakers)  (Session Chair: Tao Xie)
+04:40 PM - 05:30 PM	Panel Discussion on Intelligent Software Engineeirng (panelists as invited speakers)  (Session Chair: Tao Xie)
 
 
 ##### Sponsored by
