@@ -55,7 +55,7 @@ The workshop program will consist of a number of invited talks given by prominen
 
 10:00 AM - 10:30 AM  Coffee Break
 
-10:30 AM - 12:30 PM Sessions 2 (three invited talks) (Session Chair: Wolfram Schulte)
+10:30 AM - 12:30 PM Sessions 2 (two invited talks) (Session Chair: Wolfram Schulte)
 - [Martin Rinard](http://people.csail.mit.edu/rinard/) (MIT, USA): "Three Intelligent Systems at the Intersection of Machine Learning and Software Engineering"
 - [Rishabh Singh](https://www.microsoft.com/en-us/research/people/risin/) (Microsoft Research, USA): "Neural Program Synthesis"
 
