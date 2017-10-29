@@ -33,7 +33,7 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
 - [Satish Chandra](https://sites.google.com/site/schandraacmorg/) (Facebook, USA): "Bringing ML to the Developer" 
 - [Prem Devanbu](http://web.cs.ucdavis.edu/~devanbu/) (UC Davis, USA): "On the Naturalness of Software"
 - [Na Meng](http://people.cs.vt.edu/nm8247/) (Virginia Tech, USA): "Clone Detection and Maintenance with AI Techniques"
-- [John Micco](https://research.google.com/pubs/105187.html) (Google, USA): "Continuous Integration Testing @ Google" [Slides](/wise17-johnmicco.pdf)
+- [John Micco](https://research.google.com/pubs/105187.html) (Google, USA): "Continuous Integration Testing @ Google"  [Slides](/wise17-johnmicco.pdf)
 - [Martin Rinard](http://people.csail.mit.edu/rinard/) (MIT, USA): "Three Intelligent Systems at the Intersection of Machine Learning and Software Engineering" 
 - [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA): "Make Data-driven Decisions Faster with Real-time Stream Processing"
 - [Rishabh Singh](https://www.microsoft.com/en-us/research/people/risin/) (Microsoft Research, USA): "Neural Program Synthesis"
@@ -63,7 +63,7 @@ The workshop program will consist of a number of invited talks given by prominen
 
 01:30 PM - 03:30 PM Sessions 3 (three invited talks) (Session Chair: Qianxiang Wang)
 - [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA): "Make Data-driven Decisions Faster with Real-time Stream Processing"
-- [John Micco](https://research.google.com/pubs/105187.html) (Google, USA): "Continuous Integration Testing @ Google"
+- [John Micco](https://research.google.com/pubs/105187.html) (Google, USA): "Continuous Integration Testing @ Google" [Slides](/wise17-johnmicco.pdf)
 - [Satish Chandra](https://sites.google.com/site/schandraacmorg/) (Facebook, USA): "Bringing ML to the Developer"
 
 03:30 PM - 04:00 PM  Coffee Break
