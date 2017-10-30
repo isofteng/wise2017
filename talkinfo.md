@@ -42,7 +42,7 @@ Bio: Na Meng is an assistant professor in the Computer Science department of Vir
 
 ####  [John Micco](https://research.google.com/pubs/105187.html) (Google, USA) 
 
-Talk Title: Continuous Integration Testing @ Google
+Talk Title: Intelligent Development at Google
 
 Abstract: We are always working on improving the efficiency of our developers’ core workflows by providing better and faster tooling and processes for testing their code submissions. This talk will describe some of the most interesting problems (such as scalability and flaky tests) that we are finding in the developer workflow and how we are working to improve core testing workflows for all Google engineers.
 
