@@ -37,7 +37,7 @@ The workshop is open to the public to register (please use the [ASE 2017 registr
 - [Martin Rinard](http://people.csail.mit.edu/rinard/) (MIT, USA): "Three Intelligent Systems at the Intersection of Machine Learning and Software Engineering" 
 - [Wolfram Schulte](https://research.fb.com/people/schulte-wolfram/) (Facebook, USA): "Make Data-driven Decisions Faster with Real-time Stream Processing"
 - [Rishabh Singh](https://www.microsoft.com/en-us/research/people/risin/) (Microsoft Research, USA): "Neural Program Synthesis"
-- [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China): "How Can Software Engineers Explore a New Way to the Cognitive Intelligence?"
+- [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China): "How Can Software Engineers Explore a New Way to the Cognitive Intelligence?"  **[Slides](/wise17-qianxiangwang.pdf)**
 
 [Talk title, abstract, and bio](https://isofteng.github.io/wise2017/talkinfo.html)
 
@@ -50,7 +50,7 @@ The workshop program will consist of a number of invited talks given by prominen
 08:30 AM - 08:40 AM Opening Remarks  **[Openning Slides](wise17-openning.pdf)**
 
 08:40 AM - 10:00 AM Sessions 1 (two invited talks) (Session Chair: Tao Xie)
-- [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China): "How Can Software Engineers Explore a New Way to the Cognitive Intelligence?"
+- [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China): "How Can Software Engineers Explore a New Way to the Cognitive Intelligence?"    **[Slides](/wise17-qianxiangwang.pdf)**
 - [Prem Devanbu](http://web.cs.ucdavis.edu/~devanbu/) (UC Davis, USA): "On the Naturalness of Software"
 
 10:00 AM - 10:30 AM  Coffee Break
