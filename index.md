@@ -47,7 +47,7 @@ The workshop program will consist of a number of invited talks given by prominen
 
 [Talk title, abstract, and bio](https://isofteng.github.io/wise2017/talkinfo.html)
 
-Tao Xie's [slides](https://www.slideshare.net/taoxiease/intelligent-software-engineering-synergy-between-ai-and-software-engineering) of keynote speech on "Intelligent Software Engineering: Synergy between AI and Software Engineering" at [the 2017 International Workshop on Software Mining](http://lamda.nju.edu.cn/conf/softwaremining17/) 
+Tao Xie's **[slides](https://www.slideshare.net/taoxiease/intelligent-software-engineering-synergy-between-ai-and-software-engineering)** of keynote speech on "Intelligent Software Engineering: Synergy between AI and Software Engineering" at [the 2017 International Workshop on Software Mining](http://lamda.nju.edu.cn/conf/softwaremining17/) 
 
 08:30 AM - 08:40 AM Opening Remarks  **[Openning Slides](wise17-openning.pdf)**
 
